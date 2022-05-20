@@ -4,6 +4,10 @@ A curated list of amazingly awesome tools, articles and books about abstract syn
 
 <br>
 
+Do you miss a project, tool or article, that you consider useful to the broader AST PHP community? Send a pull-request, so we can check it.
+
+<br>
+
 ## Native PHP
 
 ### Parsing
