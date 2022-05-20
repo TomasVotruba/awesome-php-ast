@@ -4,18 +4,25 @@ A curated list of amazingly awesome tools, articles and books about abstract syn
 
 <br>
 
-## Parsing PHP
+## Native PHP
+
+### Parsing
 
 * https://github.com/nikic/PHP-Parser - A PHP parser written in PHP
 * https://github.com/microsoft/tolerant-php-parser - PHP parser designed for IDE usage scenarios
 
-## Analyzing PHP
+### Analyzing
 
-- ...
+* https://github.com/phpstan/phpstan - PHP Static Analysis Tool based on php-parser
+* https://leanpub.com/recipes-for-decoupling - Book about PHPStan & AST-based analysis
 
-## Modifying PHP
+### Modifying
  
-- ...
+* https://github.com/rectorphp/rector - Instant Upgrades and Automated Refactoring tool based on php-parser and PHPStan
+* https://github.com/ajthinking/archetype - Edit PHP files programmatically with Fluent API and Abstract Syntax Tree QueryBuilder
+* https://leanpub.com/rector-the-power-of-automated-refactoring - Book about Rector and AST-based manipulation
+
+<br>
 
 ## Templates
 
@@ -37,11 +44,12 @@ A curated list of amazingly awesome tools, articles and books about abstract syn
 
 * https://github.com/TomasVotruba/html-parser - Simple HTML AST traverser based on Dom
 
-## Database
+<br>
+
+## Databases
 
 * https://github.com/staabm/phpstan-dba - PHPStan static analysis and type inference for the database access layer
 * https://github.com/phpmyadmin/sql-parser - A validating SQL lexer and parser with a focus on MySQL dialect
-
 
 <br>
 
