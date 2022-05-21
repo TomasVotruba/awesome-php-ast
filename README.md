@@ -20,6 +20,7 @@ Do you miss a project, tool or article, that you consider useful to the broader 
 * https://github.com/phpstan/phpstan - PHP Static Analysis Tool based on php-parser
 * https://github.com/phan/phan - PHP Static Analysis Tool based on the php-ast extension 
 * https://leanpub.com/recipes-for-decoupling - Book about PHPStan & AST-based analysis
+* https://github.com/qossmic/deptrac - PHP architectural Static Analysis Tool based on php-parser
 
 ### Modifying
  
