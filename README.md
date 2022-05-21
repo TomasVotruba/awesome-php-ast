@@ -56,6 +56,10 @@ Do you miss a project, tool or article, that you consider useful to the broader 
 * https://github.com/staabm/phpstan-dba - PHPStan static analysis and type inference for the database access layer
 * https://github.com/phpmyadmin/sql-parser - A validating SQL lexer and parser with a focus on MySQL dialect
 
+## GraphQL
+
+* https://github.com/webonyx/graphql-php - GraphQL framework that uses AST for GraphQL parsing
+
 <br>
 
 ### License
