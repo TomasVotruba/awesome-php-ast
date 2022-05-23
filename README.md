@@ -4,6 +4,13 @@ A curated list of amazingly awesome tools, articles and books about abstract syn
 
 <br>
 
+Note: this repository should not be list of tools that run on nikic/php-parser, but rather tools that main feature developer actually works with is abstract syntax tree. 
+
+* Good example - PHPStan, because you work with PHP nodes in every single rule. 
+* Bad example - Twig, it has structure in AST and has node visitors, but marginal number of developers use it. It's main feature is template compilation, filters and functions.
+
+<br>
+
 Do you miss a project, tool or article, that you consider useful to the broader AST PHP community? Send a pull-request, so we can check it.
 
 <br>
@@ -20,7 +27,6 @@ Do you miss a project, tool or article, that you consider useful to the broader 
 * https://github.com/phpstan/phpstan - PHP Static Analysis Tool based on php-parser
 * https://github.com/phan/phan - PHP Static Analysis Tool based on the php-ast extension 
 * https://leanpub.com/recipes-for-decoupling - Book about PHPStan & AST-based analysis
-* https://github.com/qossmic/deptrac - PHP architectural Static Analysis Tool based on php-parser
 
 ### Modifying
  
