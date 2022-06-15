@@ -62,6 +62,7 @@ Do you miss a project, tool or article, that you consider useful to the broader 
 
 * https://github.com/staabm/phpstan-dba - PHPStan static analysis and type inference for the database access layer
 * https://github.com/phpmyadmin/sql-parser - A validating SQL lexer and parser with a focus on MySQL dialect
+* https://github.com/sad-spirit/pg-builder - Query builder for Postgres backed by SQL parser
 
 <br>
 
