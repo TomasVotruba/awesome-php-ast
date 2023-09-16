@@ -62,6 +62,7 @@ Do you miss a project, tool or article, that you consider useful to the broader 
 ## Databases
 
 * https://github.com/staabm/phpstan-dba - PHPStan static analysis and type inference for the database access layer
+* https://github.com/phpstan/phpstan-doctrine - PHPStan static analysis and type inference for Doctrine ORM
 * https://github.com/phpmyadmin/sql-parser - A validating SQL lexer and parser with a focus on MySQL dialect
 
 <br>
