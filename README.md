@@ -21,6 +21,7 @@ Do you miss a project, tool or article, that you consider useful to the broader 
 
 * https://github.com/nikic/PHP-Parser - A PHP parser written in PHP
 * https://github.com/microsoft/tolerant-php-parser - PHP parser designed for IDE usage scenarios
+* https://github.com/phpstan/phpdoc-parser Next-gen phpDoc parser with support for intersection types and generics
 
 ### Analyzing
 
