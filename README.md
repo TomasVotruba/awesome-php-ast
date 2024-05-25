@@ -35,6 +35,10 @@ Do you miss a project, tool or article, that you consider useful to the broader 
 * https://github.com/ajthinking/archetype - Edit PHP files programmatically with Fluent API and Abstract Syntax Tree QueryBuilder
 * https://leanpub.com/rector-the-power-of-automated-refactoring - Book about Rector and AST-based manipulation
 
+### Visualizing
+
+* https://php-ast-viewer.com/ - The PHP AST Viewer is a tool for viewing the Abstract Syntax Tree of PHP code. By visualizing the structure, it helps developers gain a deeper understanding of the code, thus improving code quality and maintenance efficiency.
+
 <br>
 
 ## Templates
